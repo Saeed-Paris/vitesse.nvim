@@ -18,7 +18,7 @@ M.colors = {
 M.themes = {
   primary = "#4d9375",
 
-  foreground = "#c8c5b8",
+  foreground = "#d4cfbf",
   activeForeground = "#bebaab",
   secondaryForeground = "#83827d",
   ignored = "#383837",
@@ -31,12 +31,12 @@ M.themes = {
   lowActiveBackground = "#292929",
   lowBorder = "#E7E5DB",
 
-  comment = "#5c6b5e",
-  string = "#c98a7d",
-  variable = "#bd976a",
+  comment = "758575",
+  string = "#d48372",
+  variable = "#c2b36e",
   keyword = "#4d9375",
-  number = "#4C9A91",
-  boolean = "#4d9375",
+  number = "#6394bf",
+  boolean = "#1c6b48",
   operator = "#cb7676",
   func = "#80a665",
   constant = "#c99076",
